@@ -4,8 +4,17 @@ For this challenge was used React using webpack as required, material UI for com
 
 # Steps to reproduce
 ## Installation
-Run command $ npm install
+Run command npm install for installing all packages dependencies
+```
+$ npm install
+```
 ## Run on Development
-Run command $ npm start
+Run command npm start to run the project on development mode
+```
+$ npm start
+```
 ## Build to production
-Run command $ npm run build
+Run command npm run build and create necessaries files to upload to server
+```
+$ npm run build
+```
